@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Android ChangeLog Screen</string>
-    <!--<string name="new_version">This version includes a set of new features!\n\u2022 Added background sync\n\u2022 Social login\n\u2022 New themes\n\u2022 Replace this string with a changelist which tells about the new version of your app\n\u2022 If a new app update doesn\'t really include significant changes, and you won\'t show this dialog, simply leave this string blank.</string>-->
-    <string name="new_version"></string>
+    <string name="new_version">This version includes a set of new features!\n\u2022 Added background sync\n\u2022 Social login\n\u2022 New themes\n\u2022 Replace this string with a changelist which tells about the new version of your app\n\u2022 If a new app update doesn\'t really include significant changes, and you won\'t show this dialog, simply leave this string blank.</string>
+    <!--<string name="new_version"></string>-->
 </resources>
